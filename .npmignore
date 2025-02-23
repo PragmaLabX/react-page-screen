@@ -1,0 +1,7 @@
+src/
+*.md
+node_modules/
+package-lock.json
+rollup.config.cjs
+demo.gif
+.idea/

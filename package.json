@@ -1,0 +1,51 @@
+{
+  "name": "react-page-screen",
+  "version": "2.0.1",
+  "description": "Lightweight React component for managing screens, page transitions, and preloading in multi-page applications.",
+  "keywords": [
+    "react",
+    "page",
+    "screen",
+    "webView",
+    "IOS",
+    "Android",
+    "mobile",
+    "preload",
+    "navigation",
+    "animated"
+  ],
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PragmaLabX/react-page-screen.git"
+  },
+  "author": "Oleksandr Ukhrianchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PragmaLabX/react-page-screen/issues"
+  },
+  "homepage": "https://github.com/PragmaLabX/react-page-screen#readme",
+  "peerDependencies": {
+    "react": ">=18.2.0 <20.0.0",
+    "react-dom": ">=18.2.0 <20.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.34.6",
+    "rollup-plugin-dts": "^6.1.1"
+  },
+  "files": [
+    "dist"
+  ]
+}
