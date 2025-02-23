@@ -1,6 +1,6 @@
 {
   "name": "react-page-screen",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Lightweight React component for managing screens, page transitions, and preloading in multi-page applications.",
   "keywords": [
     "react",
