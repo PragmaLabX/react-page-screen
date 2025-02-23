@@ -114,7 +114,15 @@ const MainScreenComponent = ({ nextScreen,  someProp1, someProp2}) => {
 
 
 ```tsx
-const AboutScreen = ({ nextScreen, backScreen, onBackScreen, removeScreens, preloadScreen }) => {
+const AboutScreen = ({ 
+   nextScreen, 
+   backScreen, 
+   onBackScreen, 
+   removeScreens, 
+   preloadScreen,
+   myProp,
+   anyProp
+}) => {
 
     const galleryScreenPreloaded = preloadScreen({
         nextScreenOptions: {
