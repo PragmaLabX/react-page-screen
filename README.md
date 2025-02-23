@@ -90,7 +90,7 @@ const MainScreenComponent = ({ nextScreen,  someProp1, someProp2}) => {
                 effect: "slide",
                 showBackButton: true,                   // optional
                 className: "some-custom-class-name",    // optional
-                onBackScreen: () => {setMyProp(2)},
+                onBackScreen: () => {setMyProp(2)},     // optional
                 props: {                                // optional
                     myProp,
                     anyProp: '123'
@@ -139,7 +139,7 @@ const AboutScreen = ({ nextScreen, backScreen, onBackScreen, removeScreens, prel
     };
 
     const onUpdateSomeValueButtonClick = () => {
-        screen4.updateProps({
+        galleryScreenPreloaded.updateProps({
                 f: 456
             })
     };
