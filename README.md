@@ -2,25 +2,10 @@
 
 
 
-<div style="display: flex; align-items: top; gap: 15px; justify-content: space-between;">
-  <div>
-    A lightweight React component for managing screens, page transitions, and preloading. Effortlessly manage screen transitions and preloading with customizable effects, ideal for React applications.
-    <br /><br />
-    The motivation behind react-page-screen is to provide a lightweight solution for managing screens and transitions in mobile apps, particularly within WebViews. It simplifies page navigation, offers smooth transitions, and preloads content for faster, seamless user experiences.
----
+*A lightweight React component for managing screens, page transitions, and preloading. Effortlessly manage screen transitions and preloading with customizable effects, ideal for React applications.*
+*The motivation behind react-page-screen is to provide a lightweight solution for managing screens and transitions in mobile apps, particularly within WebViews. It simplifies page navigation, offers smooth transitions, and preloads content for faster, seamless user experiences.*
 
-## ✨ Features
-
-✅ **Simple & Powerful API** – Manage screen transitions easily\
-✅ **Preloading** – Load screens in the background\
-✅ **Customizable Effects** – Add animations for smooth transitions\
-✅ **Supports React 18, 19**  
-</div>
- 
-   <br /><br />
-  
-  <img src="demo.gif" alt="Demo GIF" width="200"/>
-</div>
+<img src="https://github.com/PragmaLabX/react-page-screen/blob/main/demo.gif?raw=true" alt="Demo GIF" width="200"/>
   
 
 
