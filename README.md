@@ -9,7 +9,7 @@
     The motivation behind react-page-screen is to provide a lightweight solution for managing screens and transitions in mobile apps, particularly within WebViews. It simplifies page navigation, offers smooth transitions, and preloads content for faster, seamless user experiences.
   </div>
  
-  
+   <br /><br />
   
   <img src="demo.gif" alt="Demo GIF" width="200"/>
 </div>
