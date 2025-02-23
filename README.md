@@ -1,13 +1,13 @@
 # react-page-screen
 
-A lightweight React component for managing screens, page transitions, and preloading. Effortlessly manage screen transitions and preloading with customizable effects, ideal for React applications*
-*The motivation behind react-page-screen is to provide a lightweight solution for managing screens and transitions in mobile apps, particularly within WebViews. It simplifies page navigation, offers smooth transitions, and preloads content for faster, seamless user experiences.*
 
-![Demo GIF](demo.gif)
 
 <p style="float: right; margin-left: 15px;">
   <img src="demo.gif" alt="Demo GIF" width="200"/>
 </p>
+A lightweight React component for managing screens, page transitions, and preloading. Effortlessly manage screen transitions and preloading with customizable effects, ideal for React applications*
+*The motivation behind react-page-screen is to provide a lightweight solution for managing screens and transitions in mobile apps, particularly within WebViews. It simplifies page navigation, offers smooth transitions, and preloads content for faster, seamless user experiences.*
+
 ---
 
 ## ✨ Features
